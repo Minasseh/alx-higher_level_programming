@@ -1,2 +1,2 @@
 -- Lists MySQLs database
-SHOW DATABASES;
+SHOW SCHEMAS;
